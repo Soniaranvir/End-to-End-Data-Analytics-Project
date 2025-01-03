@@ -8,13 +8,13 @@ Walmart is one of the world’s largest retailers, handling vast amounts of tran
 
 Retail businesses like Walmart often struggle with:
 
-Understanding customer preferences and payment patterns.
+- Understanding customer preferences and payment patterns.
 
-Identifying high-performing and low-performing branches or products.
+- Identifying high-performing and low-performing branches or products.
 
-Spotting revenue trends and seasonal changes.
+- Spotting revenue trends and seasonal changes.
 
-Optimizing inventory and marketing strategies based on demand.
+- Optimizing inventory and marketing strategies based on demand.
 
 This project aims to address these challenges by extracting meaningful insights from Walmart’s sales data.
 
@@ -30,55 +30,55 @@ Visualization: Tableau (Interactive charts and graphs)
 
 Payment Methods Performance
 
-Ewallet is the most preferred payment method, followed by credit cards.
+- Ewallet is the most preferred payment method, followed by credit cards.
 
 Customer Satisfaction by Category
 
-Categories like Health and Beauty consistently score high in customer ratings.
+- Categories like Health and Beauty consistently score high in customer ratings.
 
 Peak Shopping Days
 
-Saturdays are the busiest shopping days across branches.
+- Saturdays are the busiest shopping days across branches.
 
 Top Sales Shift
 
-The Afternoon shift generates the highest sales volume.
+- The Afternoon shift generates the highest sales volume.
 
 Revenue Leaders by Category
 
-Electronics and Home & Lifestyle are the top-performing categories.
+- Electronics and Home & Lifestyle are the top-performing categories.
 
 Seasonal Sales Trends
 
-Q4 (Holiday season) experiences the highest sales, showcasing strong seasonal trends.
+- Q4 (Holiday season) experiences the highest sales, showcasing strong seasonal trends.
 
 Revenue Decline Analysis
 
-Branches in smaller cities show notable revenue challenges year-over-year.
+- Branches in smaller cities show notable revenue challenges year-over-year.
 
 ## 🔢 Data Cleaning and Preparation
 
 Using Python, we:
 
-Removed duplicates and missing values.
+- Removed duplicates and missing values.
 
-Standardized data types, such as converting prices to float.
+- Standardized data types, such as converting prices to float.
 
-Added new fields like total revenue and customer IDs for enhanced analysis.
+- Added new fields like total revenue and customer IDs for enhanced analysis.
 
 ## 🌄 Tableau Visualizations
 
 Key Visualizations:
 
-Payment Methods Distribution: Pie chart showcasing the proportion of transactions by payment method.
+- Payment Methods Distribution: Pie chart showcasing the proportion of transactions by payment method.
 
-Category Ratings by Branch: Bar chart comparing average ratings of categories across branches.
+- Category Ratings by Branch: Bar chart comparing average ratings of categories across branches.
 
-Top Categories by Revenue: Stacked bar chart displaying the revenue contribution of top-performing categories.
+- Top Categories by Revenue: Stacked bar chart displaying the revenue contribution of top-performing categories.
 
-Seasonal Revenue Trends: Line graph depicting quarterly revenue patterns to identify peak sales seasons.
+- Seasonal Revenue Trends: Line graph depicting quarterly revenue patterns to identify peak sales seasons.
 
-Branch-Level Performance: Map visualization highlighting branches based on revenue and customer satisfaction.
+- Branch-Level Performance: Map visualization highlighting branches based on revenue and customer satisfaction.
 
 ## 🌐 Lessons Learned
 
