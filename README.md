@@ -1,10 +1,10 @@
-Walmart Data Analysis Project
+# 🛒 Walmart Data Analysis Project
 
-✨ Overview
+## ✨ Overview
 
 Walmart is one of the world’s largest retailers, handling vast amounts of transactional data across multiple branches. This project focuses on analyzing Walmart’s sales data to uncover insights about customer behavior, sales trends, and business performance. By leveraging SQL, Python, and Tableau, we explored the dataset and created visualizations to drive actionable decisions.
 
-🔍 Problem Statement
+## 🔍 Problem Statement
 
 Retail businesses like Walmart often struggle with:
 
@@ -18,7 +18,7 @@ Optimizing inventory and marketing strategies based on demand.
 
 This project aims to address these challenges by extracting meaningful insights from Walmart’s sales data.
 
-⚙️ Tools and Technologies Used
+## ⚙️ Tools and Technologies Used
 
 Database Management: PostgreSQL (pgAdmin)
 
@@ -26,51 +26,37 @@ Programming Language: Python (Data cleaning and preparation)
 
 Visualization: Tableau (Interactive charts and graphs)
 
-🔎 Key Questions and Insights
+## 🔑 Key Insights
 
-1. What are the different payment methods, and how do they perform?
+Payment Methods Performance
 
-Query: Count payment methods and calculate the total quantity sold by each method.
+Ewallet is the most preferred payment method, followed by credit cards.
 
-Insight: Ewallet emerged as the most preferred payment method, followed by credit cards.
+Customer Satisfaction by Category
 
-2. Which category receives the highest average rating in each branch?
+Categories like Health and Beauty consistently score high in customer ratings.
 
-Query: Rank categories within branches based on average customer ratings.
+Peak Shopping Days
 
-Insight: Categories like Health and Beauty consistently scored higher in customer satisfaction.
+Saturdays are the busiest shopping days across branches.
 
-3. What is the busiest day of the week for each branch?
+Top Sales Shift
 
-Query: Identify the busiest day based on the number of transactions.
+The Afternoon shift generates the highest sales volume.
 
-Insight: Saturdays were identified as the peak shopping day.
+Revenue Leaders by Category
 
-4. Which shifts drive the most sales?
+Electronics and Home & Lifestyle are the top-performing categories.
 
-Query: Categorize sales into morning, afternoon, and evening shifts.
+Seasonal Sales Trends
 
-Insight: The Afternoon shift accounted for the highest sales volume.
+Q4 (Holiday season) experiences the highest sales, showcasing strong seasonal trends.
 
-5. What are the top-performing categories in each branch?
+Revenue Decline Analysis
 
-Query: Determine the top 3 categories contributing the highest revenue in each branch.
+Branches in smaller cities show notable revenue challenges year-over-year.
 
-Insight: Categories like Electronics and Home & Lifestyle dominated revenue generation.
-
-6. How do revenue trends vary seasonally?
-
-Query: Analyze revenue distribution across quarters.
-
-Insight: Q4 (Holiday season) showed a significant increase in sales compared to other quarters.
-
-7. What’s the revenue decline trend?
-
-Query: Compare revenue between 2022 and 2023 to identify branches with the highest decline ratio.
-
-Insight: Certain branches in smaller cities faced revenue challenges.
-
-🔢 Data Cleaning and Preparation
+## 🔢 Data Cleaning and Preparation
 
 Using Python, we:
 
@@ -80,31 +66,21 @@ Standardized data types, such as converting prices to float.
 
 Added new fields like total revenue and customer IDs for enhanced analysis.
 
-🌄 Tableau Visualizations
+## 🌄 Tableau Visualizations
 
-Key Dashboards and Visualizations:
+Key Visualizations:
 
-Payment Methods Distribution
+Payment Methods Distribution: Pie chart showcasing the proportion of transactions by payment method.
 
-A pie chart showcasing the proportion of transactions by payment method.
+Category Ratings by Branch: Bar chart comparing average ratings of categories across branches.
 
-Category Ratings by Branch
+Top Categories by Revenue: Stacked bar chart displaying the revenue contribution of top-performing categories.
 
-A bar chart comparing average ratings of categories across branches.
+Seasonal Revenue Trends: Line graph depicting quarterly revenue patterns to identify peak sales seasons.
 
-Top Categories by Revenue
+Branch-Level Performance: Map visualization highlighting branches based on revenue and customer satisfaction.
 
-A stacked bar chart displaying the revenue contribution of top-performing categories.
-
-Seasonal Revenue Trends
-
-A line graph depicting quarterly revenue patterns to identify peak sales seasons.
-
-Branch-Level Performance
-
-A map visualization highlighting branches based on revenue and customer satisfaction.
-
-🌐 Lessons Learned
+## 🌐 Lessons Learned
 
 SQL is powerful for deriving detailed insights with precise queries like RANK and WINDOW functions.
 
@@ -112,7 +88,7 @@ Python excels in handling messy datasets, making it easier to clean and prepare 
 
 Tableau’s visual storytelling capabilities are unparalleled for communicating complex data in a user-friendly way.
 
-🎨 Future Scope
+## 🚀 Future Scope
 
 Automate ETL Pipelines: Using Python or other tools to automate data extraction and analysis.
 
@@ -120,13 +96,13 @@ Advanced Predictive Modeling: Leveraging machine learning for customer segmentat
 
 Enhanced Visualizations: Creating interactive dashboards for real-time business insights.
 
-⚡ Quick Links
+## ⚡ Quick Links
 
-Dataset: 
+Dataset: <a href = https://github.com/Soniaranvir/End-to-End-DataAnalytics-Project/blob/main/Walmart.csv> Walmart Dataset </a>
 
-SQL Queries: 
+SQL Queries: <a href = https://github.com/Soniaranvir/End-to-End-DataAnalytics-Project/blob/main/PSQL%20Queries.sql> SQL Queries</a>
 
-Python Code: 
+Python Code: <a href = https://github.com/Soniaranvir/End-to-End-DataAnalytics-Project/blob/main/walmart_project.ipynb> Data Preparation Script </a>
 
-Tableau Visualizations: 
+Tableau Visualizations: Interactive Dashboard
 
