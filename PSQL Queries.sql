@@ -1,7 +1,5 @@
-```sql
-	
 SELECT * FROM walmart
-```
+
 --
 SELECT COUNT(*) FROM walmart
 
