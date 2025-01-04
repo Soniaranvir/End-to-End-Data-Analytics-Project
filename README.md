@@ -1,4 +1,7 @@
-# 🛒 Walmart Data Analysis Project
+
+![Untitled design-2](https://github.com/user-attachments/assets/9e9112a3-81b5-470b-b779-29a0354a4458)
+
+# 🛒 Walmart Data Analytics Project
 
 ## ✨ Overview
 
