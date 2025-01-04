@@ -1,5 +1,7 @@
 <img width="1272" alt="Screenshot 2025-01-04 at 2 14 07 AM" src="https://github.com/user-attachments/assets/6791dea4-19d5-403a-83cf-e8cc2e06a91d" />
 
+---
+
 # 🛒 Walmart Data Analytics Project
 
 ## ✨ Overview
