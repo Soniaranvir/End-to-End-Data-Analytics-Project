@@ -1,3 +1,5 @@
+'''sql
+
 SELECT * FROM walmart
 
 --
@@ -224,4 +226,4 @@ FROM walmart
 GROUP BY category
 ORDER BY total_quantity_sold ASC
 LIMIT 10;
-
+'
