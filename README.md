@@ -8,6 +8,9 @@
 
 Walmart is one of the world’s largest retailers, handling vast amounts of transactional data across multiple branches. This project focuses on analyzing Walmart’s sales data to uncover insights about customer behavior, sales trends, and business performance. By leveraging SQL, Python, and Tableau, we explored the dataset and created visualizations to drive actionable decisions.
 
+## Live Preview Dashboard
+https://public.tableau.com/app/profile/sonia.ranvir/viz/DashboardWalmart_17370650213170/Dashboard1
+
 ## 🔍 Problem Statement
 
 Retail businesses like Walmart often struggle with:
